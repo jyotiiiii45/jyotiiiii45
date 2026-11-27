@@ -1,57 +1,70 @@
 
-# Hey, I'm Jyoti Rani! 🧬
+# Hi, I'm Jyoti Rani 👋
 
-### Biotechnology Undergraduate | Molecular Biology | NGS | Bioinformatics
+**Third-year B.Tech Biotechnology Student | Molecular Biology | Bioinformatics | Computational Biology**
 
-Curious about the tiny world of molecules, microbes and the science behind life. I enjoy exploring how biological research meets computational tools to uncover meaningful insights.
+I'm a Biotechnology student interested in understanding biological systems through laboratory experiments and computational approaches. My interests lie in Molecular Biology, NGS, microbial genomics and the use of computational tools in biological research.
 
----
+I've had exposure to Molecular Biology, Industrial Microbiology, Bioinformatics and Data Science through internships, academic projects and hands-on learning. I'm particularly interested in the intersection of wet-lab research and computational biology.
 
-### 🔬 About Me
-
-- 🎓 B.Tech Biotechnology undergraduate
-- 🧬 Interested in Molecular Biology and Computational Biology
-- 🧪 Exploring Next-Generation Sequencing (NGS) and microbial genomics
-- 💻 Learning Python, R and scientific computing
-- 🌱 Always curious to learn, experiment and build something meaningful
-
-### 🧫 Research Interests
-
+###Areas of Interest
+- Molecular Biology & Genetic Engineering
 - Next-Generation Sequencing (NGS)
-- Microbial Genomics
-- Foodborne Microorganism Detection
-- Molecular Biology
-- Bioinformatics & Computational Biology
-- Data Analysis in Biological Sciences
+- Microbial Genomics & Metagenomics
+- Computational Biology
+- Bioinformatics & Biological Data Analysis
+- Data Science in Biotechnology
 
-### 💻 Technical Skills
+### Programming & Technical Skills
+- **Languages:** Python, R, Java
+- **Web Technologies:** HTML, CSS
+- **Data Analysis:** NumPy, Pandas, Matplotlib
+- **Development:** VS Code, RStudio, Jupyter Notebook, Linux (Ubuntu)
 
-**Programming:** Python, R, Java, HTML, CSS
+### Bioinformatics Tools & Databases
 
-**Bioinformatics:** NCBI BLAST, QIIME 2, DADA2
+- **Sequence Databases:** NCBI, GenBank, EMBL-ENA, DDBJ, UniProt, PDB
+- **Sequence Retrieval:** Entrez, ExPASy, EMBOSS, ORF Finder
+- **Sequence Alignment:** BLAST, FASTA, Clustal Omega, MUSCLE
+- **Genome Analysis:** Ensembl, UCSC Genome Browser
+- **Protein Analysis:** PROSITE, Pfam, InterPro, SWISS-MODEL
+- **Phylogenetic Analysis:** MEGA
+- **NGS & Metagenomics:** FastQC, QIIME 2, DADA2, SILVA
+- **Molecular Visualization:** PyMOL
+- **Biological Computing:** Biopython, Bioconductor
 
-**Scientific Tools:** RStudio, VS Code, Ubuntu
+### Laboratory Experience
+- DNA Isolation and Purification
+- PCR and DNA Amplification
+- Agarose Gel Electrophoresis
+- Competent Cell Preparation and Transformation
+- Colony PCR and Screening
+- Media Preparation and Aseptic Techniques
+- Microbial Culturing and Sample Processing
 
-**Laboratory Skills:** DNA Isolation, PCR, Media Preparation, Aseptic Techniques
+###  Research & Academic Activities
+- Poster presentation at Banaras Hindu University (BHU).
+- Attended two academic national conferences.
+- Explored NGS and bioinformatics approaches for detection and characterization of foodborne microorganisms.
+- Academic exposure to sequence analysis, microbial identification and biological data interpretation.
 
-### 🏆 Achievements
+### Achievements & Beyond Academics
+- Gold Medalist – AKTU Zonal Kabaddi Competition.
+- Anchoring and stage hosting at college events.
+- Public speaking and communication.
+- Interpersonal skills and teamwork.
+- Event coordination and leadership.
 
-- Silver Medal – BHU Poster Presentation
-- Poster presentation on NGS and Bioinformatics approaches for foodborne microorganism detection
-
-### 🌱 Currently Exploring
-
+### Currently Exploring
 - Python for Bioinformatics
 - NGS Data Analysis
-- Biological Sequence Analysis
 - Computational Approaches in Molecular Biology
+- Biological Sequence Analysis
 
----
+###Let's Connect
 
-### ✨ A Little More About Me
+Always interested in connecting with students, researchers and professionals working across biotechnology, biology and technology.
 
-Learning never stops when curiosity leads the way.
+Open to learning, sharing ideas and meaningful collaborations.
 
-**Biology is my foundation, computation is my growing toolkit, and research is where I want to make a difference.**
-
----
+*Curious about biology, learning computation, and exploring where both come together.*
